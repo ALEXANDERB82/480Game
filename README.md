@@ -20,7 +20,12 @@ This is a basic build of the game that includes the moveable player with an enem
 
 2. Locate the unity application titled "sidescroller" and open it.
 
-3. Enjoy!
+3. Make sure windowed play is not selected. (press alt & enter to exit fulscreen and close the window to stop the game)
+
+4. Enjoy!
+
+## How to play the game
+Use the arrow keys in order to control the player. The player can jump infinitely within the bounds of the play area. 
 
 
 
